@@ -1,6 +1,6 @@
 # Comparison of Statistical Models for a Fraud Detection Application
 
-<a target="_blank" href="https://colab.research.google.com/drive/1lQbQqwXJpZmGhUvAVsz6EXim_lhRZkQt#scrollTo=IHchPA-dNroS">
+<a target="_blank" href="https://colab.research.google.com/drive/1lQbQqwXJpZmGhUvAVsz6EXim_lhRZkQt#scrollTo=AfaQASvDsFEE">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
