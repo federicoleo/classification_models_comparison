@@ -4,6 +4,10 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+<a target="_blank" href="https://colab.research.google.com/drive/1lQbQqwXJpZmGhUvAVsz6EXim_lhRZkQt#scrollTo=IHchPA-dNroS">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 This notebook tries to analyze and extract information form a large dataset regarding supply chain business from DataCo company.
 The dataset holds several features, ranging from revenues to cateogory of items bought per customer.
 <br />
